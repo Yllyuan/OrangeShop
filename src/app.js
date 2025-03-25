@@ -5,7 +5,7 @@ App({
     
 
     //通版商城，
-    xiaochengxu_appid: 'wxb327d349fbcf4695', //，，需要这个参数的地方：get_session_key
+    xiaochengxu_appid: 'change', //，，需要这个参数的地方：get_session_key
     default_sellerid: 'pQNNmSkaq', //大卖家服务市场
 
     shop_name: '橙意到家',
