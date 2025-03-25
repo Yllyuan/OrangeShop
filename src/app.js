@@ -5,10 +5,10 @@ App({
     
 
     //通版商城，
-    xiaochengxu_appid: 'wx00d1e2843c3b3f77', //，，需要这个参数的地方：get_session_key
+    xiaochengxu_appid: 'wxb327d349fbcf4695', //，，需要这个参数的地方：get_session_key
     default_sellerid: 'pQNNmSkaq', //大卖家服务市场
 
-    shop_name: '通版商城小程序',
+    shop_name: '橙意到家',
 
     //============以下为开发过程中使用=======
     //default_sellerid: 'pmyxQxkkU',  // 13112341234
